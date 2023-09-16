@@ -16,6 +16,7 @@ const contactSchema = new mongoose.Schema({
   blogTitle: String,
   authorName: String,
   date: String,
+  imgLink: String,
   blogContent: String,
 });
 
