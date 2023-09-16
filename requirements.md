@@ -11,4 +11,4 @@ Before you begin, ensure you have met the following requirements:
 - **Modules Required**:
   - [Nodemon](https://www.npmjs.com/package/nodemon): Nodemon is a development tool that automatically restarts the Node.js application when changes are detected. Install it globally using `npm install -g nodemon`.
   - [Express](https://expressjs.com/): Express.js is a web application framework for Node.js, used to build the web server and routing. It's a core part of this project and will be installed automatically during the project setup. Install it globally using `npm install -g express`
-  - [Mongoose](https://mongoosejs.com/): Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js. It helps us interact with the MongoDB database. It will also be installed automatically during the project setup.Install it globally using `npm install -g mongoose`
+  - [Mongoose](https://mongoosejs.com/): Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js. It helps us interact with the MongoDB database. Install it globally using `npm install -g mongoose`
